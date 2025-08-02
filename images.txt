@@ -4,4 +4,9 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-infiniflow/ragflow:v0.20.0-slim
+infiniflow/ragflow:latest
+--platform=linux/amd64 library/elasticsearch:latest
+--platform=linux/arm64/v8 library/elasticsearch:latest
+library/elasticsearch:8.11.3
+library/mysql:latest
+library/mysql:8.0.39
