@@ -4,9 +4,14 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-infiniflow/ragflow:latest
+infiniflow/ragflow:v0.20.0-slim
+infiniflow/ragflow:v0.20.0
 --platform=linux/amd64 library/elasticsearch:latest
 --platform=linux/arm64/v8 library/elasticsearch:latest
 library/elasticsearch:8.11.3
 library/mysql:latest
 library/mysql:8.0.39
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev5
+quay.io/minio/minio:RELEASE.2025-06-13T11-33-47Z
+valkey/valkey:8
