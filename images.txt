@@ -6,8 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 infiniflow/ragflow:v0.20.0-slim
 infiniflow/ragflow:v0.20.0
---platform=linux/amd64 library/elasticsearch:latest
---platform=linux/arm64/v8 library/elasticsearch:latest
+--platform=linux/amd64 library/elasticsearch:9.1.0
+--platform=linux/arm64/v8 library/elasticsearch:9.1.0
 library/elasticsearch:8.11.3
 library/mysql:latest
 library/mysql:8.0.39
