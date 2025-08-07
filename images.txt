@@ -48,4 +48,6 @@
 
 # GPUstack
 #gpustack/gpustack:latest-npu
---platform=linux/arm64/v8 gpustack/gpustack:latest-npu
+#--platform=linux/arm64/v8 gpustack/gpustack:latest-npu
+zxwei/mineru-api-full:2.1.0
+zxwei/mineru-api:2.1.0
