@@ -47,4 +47,5 @@
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 # GPUstack
-gpustack/gpustack:latest-npu
+#gpustack/gpustack:latest-npu
+--platform=linux/arm64/v8 gpustack/gpustack:latest-npu
