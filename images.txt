@@ -49,5 +49,7 @@
 # GPUstack
 #gpustack/gpustack:latest-npu
 #--platform=linux/arm64/v8 gpustack/gpustack:latest-npu
-zxwei/mineru-api:2.1.0
-zxwei/mineru-api-full:v2.1.11
+#zxwei/mineru-api:2.1.0
+#zxwei/mineru-api-full:v2.1.11
+zxwei/knowflow-server:v2.0.1
+gotenberg/gotenberg:8
