@@ -47,8 +47,10 @@
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 # GPUstack
-gpustack/gpustack:latest-npu
+#gpustack/gpustack:latest-npu
+gpustack/gpustack:latest
 #--platform=linux/arm64/v8 gpustack/gpustack:latest-npu
+
 #zxwei/mineru-api:2.1.0
 #zxwei/mineru-api-full:v2.1.11
 #zxwei/knowflow-server:v2.0.1
